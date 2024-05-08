@@ -1,9 +1,9 @@
 /*
+*Made by Armaan Singh Chahal
 *
+*fun game based on connect 4
 *
-*
-*
-*
+*last edited on 23-05-2023
 */
 
 
